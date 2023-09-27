@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Aage</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **devanshaage@gmail.com**
 
