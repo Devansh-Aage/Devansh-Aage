@@ -3,7 +3,7 @@
 
 <div display="flex">
   <div style="flex: 1; margin-right: 20px;">
-    - 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **devanshaage@gmail.com**
 
