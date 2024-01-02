@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devansh Aage</h1>
 <h3 align="center">A Passionate Frontend and Backend Developer from India</h3>
 
-<div display="flex">
-  <div style="flex: 1; margin-right: 20px;">
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **devanshaage@gmail.com**
@@ -19,5 +17,3 @@
   <div style="flex: 1;">
     <!-- Image on the right -->
     <img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-4296.jpg?w=740&t=st=1704180665~exp=1704181265~hmac=dd644de96aea260ac1f03a53ad55b84a9b8518eb0d00dab9bd79c3c9858c3855" alt="App Screenshot" style="width: 40%; height: auto;">
-  </div>
-</div>
