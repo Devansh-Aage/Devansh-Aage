@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh Aage</h1>
 <h3 align="center">A MERN Stack Developer from Mumbai,India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 📫 How to reach me **devanshaage@gmail.com**
 
