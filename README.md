@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋! My Name is Devansh Aage</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px" height="33px" /> Hi! My Name is Devansh Aage</h1>
 
 ###
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Web+Developer;I+II+am+a+Blockchain+Developer;I+am+an+AI+Engineer&center=true&size=30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Blockchain+Developer;AI+Engineer&center=true&size=30&color=46f15c" alt="Typing SVG" />
   </a>
 </div>
 
