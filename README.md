@@ -113,7 +113,7 @@
 ###
 
 <h2 align="left">Github Statistics</h2>
-<div class="tenor-gif-embed" data-postid="12730705" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/statistics-math-upand-down-gif-12730705">Statistics Math GIF</a>from <a href="https://tenor.com/search/statistics-gifs">Statistics GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ###
 
