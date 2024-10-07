@@ -16,7 +16,12 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="25" height="25">
+</picture>
+</h2>
 
 ###
 
@@ -82,7 +87,11 @@
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">Socials
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="25" height="25">
+</picture></h2>
 
 ###
 
@@ -94,11 +103,17 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://x.com/AageDevansh" target="_blank">
+  <img alt="X" src="https://img.shields.io/twitter/follow/Devansh-Aage" height="40" />
+  </a>
+
+  
 </div>
 
 ###
 
 <h2 align="left">Github Statistics</h2>
+<div class="tenor-gif-embed" data-postid="12730705" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/statistics-math-upand-down-gif-12730705">Statistics Math GIF</a>from <a href="https://tenor.com/search/statistics-gifs">Statistics GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
@@ -110,7 +125,10 @@
 
 ###
 
-<h2 align="left">Support  Me</h2>
+<h2 align="left">Support  Me <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f497/512.gif" alt="💗" width="25" height="25">
+</picture></h2>
 
 ###
 
