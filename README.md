@@ -158,7 +158,7 @@
 
 ###
 
-<h3 align="left">Donate via Crypto at <br>  0x064e20CcC5e1634bD87422Fb8Cb88ca9025D3580</h3>
+<h3 align="left">Donate via Solana at <br>  EJwaGoWJFKo6NAimjYnMjfp9P8pnNa5xhVhFbYnEqW2t</h3>
 
 ###
 
