@@ -162,11 +162,7 @@
 
 ###
 
-<h2 align="left">Profile View Count</h2>
 
-<div align="center" style="display:flex; gap:20px;" >
-  <img height="50" src="https://media.tenor.com/F0uEWXLHEHwAAAAi/eyes-noto-color-emoji.gif" style="margin-right: 20px;" />
-  <img style="margin-left: 20px; margin-right: 20px;" src="https://profile-counter.glitch.me/Devansh-Aage/count.svg?" />
-  <img height="50" src="https://media.tenor.com/F0uEWXLHEHwAAAAi/eyes-noto-color-emoji.gif" style="margin-left: 20px;" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=Devansh-Aage&style=for-the-badge" alt="Profile views" />
+ 
 
