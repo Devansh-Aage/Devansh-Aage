@@ -3,7 +3,7 @@
 ###
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Blockchain+Developer&center=true&size=30&color=46f15c" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;App+Developer&center=true&size=30&color=46f15c" alt="Typing SVG" />
   </a>
 </div>
 
