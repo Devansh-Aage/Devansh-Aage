@@ -3,7 +3,7 @@
 ###
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;Blockchain+Developer;AI+Engineer&center=true&size=30&color=46f15c" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Blockchain+Developer&center=true&size=30&color=46f15c" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <a href="https://devbydevansh.vercel.app/">
+  <a href="https://devbydevansh.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-46F15C?style=for-the-badge" alt="Portfolio" height="40"/>
   </a>
 </div>
